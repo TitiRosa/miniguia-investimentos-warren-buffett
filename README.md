@@ -122,11 +122,11 @@ Qual a diferença entre preço e valor?
 
 🧠 Mapas Mentais
 
-[Mapa Mental - Investimentos](ativos/mapas-mentais/mapa-mental-notebooklm.png)
+[Mapa Mental - Investimentos](assets/mapas-mentais/mapa-mental-notebooklm.png)
 
 📊 Slides
 
-[Apresentação - Metodologia Warren Buffett](ativos/mapas-mentais/the-buffett-blueprint.pptx)
+[Apresentação - Metodologia Warren Buffett](assets/mapas-mentais/The_Buffett_Blueprint.pptx)
 
 Os materiais acima foram desenvolvidos com apoio do NotebookLM para reforçar o aprendizado e facilitar revisões futuras.
 
